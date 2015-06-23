@@ -42,5 +42,5 @@ int main()
             printf("%d ", rez[i][j]);
         printf("\n");
     }
-    
+   // hello world 
 }
